@@ -1,0 +1,7 @@
+5 comandos aprendidos en clase
+
+1. cd "nombre_de_carpeta"
+2. clear
+3. ls
+4. mkdir
+5. touch

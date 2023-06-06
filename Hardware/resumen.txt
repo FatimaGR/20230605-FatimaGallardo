@@ -1,0 +1,4 @@
+3 partes internas de la computadora
+1. Memoria RAM
+2. Memoria cache
+3. Placa madre/motherboard

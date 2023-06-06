@@ -1,0 +1,31 @@
+Comandos usados
+cd desktop
+mkdir 20230605-FatimaGallardo
+cd 20230605-FatimaGallardo
+git init
+git remote add origin https://github.com/FatimaGR/20230605-FatimaGallardo.git
+touch comandos.txt main.js index.html
+git add .
+git commit -m "commit 01 de FatimaGallardo"
+git push origin main
+git checkout -b "feature01"
+mkdir Terminal Hardware
+cd Terminal
+touch resumen.txt
+cd ..
+cd Hardware
+touch resumen.txt
+cd ..
+git add .
+git commit -m "commit 02 de FatimaGallardo"
+git push origin feature01
+git checkout -b "feature02"
+*aquí realicé los cambios en los archivos txt desde visual studio code*
+git add .
+git commit -m "commit 03 de FatimaGallardo"
+git push origin feature02
+git checkout main
+*nuevamente escribí desde visual studio code*
+git add .
+git commit -m "commit 04 de FatimaGallardo"
+git push origin main
